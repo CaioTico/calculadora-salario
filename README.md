@@ -46,10 +46,9 @@ O salário recebido por esse(a) colaborador(a) seria de:
  Nessa atividade criei uma calculadora para uma empresa, onde o RH pode calcular quanto o funcionário fez em todas as semanas e no mês, para o efetuar o pagamento com bonificação ou não.
 Utilizando as linguagens: `HTML`, `CSS` e `PHP`. 
 
-Aqui está um print do sistema:<br>
-![imagem](img/capa.png)<br>
-
-####aqui esta
+### Aqui está um print do sistema:<br>
+<img src="img/capa.png" width="300" height="300">  <br>
+<img src="img/capa2.png" width="300" height="300">  <br>
 
  ### Fontes Utilizadas
  *  https://www.aen.pr.gov.br/Noticia/Maior-do-Brasil-governador-confirma-novo-Piso-Regional-que-vai-de-R-18-mil-R-21-mil#:~:text=Na%20primeira%2C%20que%20contempla%20os,de%20R%24%201.927%2C02
